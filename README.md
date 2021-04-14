@@ -50,7 +50,7 @@
 
 If you want to implement a mailing system in your NestJS API, you are at the right place. 
 
-The goal is to send mails to your application's users. It can be used to confirm a subscription, to set up a forgot password process in your app, to active an account, the possibilites are limitless !
+The goal is to send mails to your application's users. It can be used to confirm a subscription, to set up a forgot password process in your app, to activate an account, the possibilites are limitless !
 
 In this module, I will explain the both the backend API part (NestJS with TypeScript) and the Mailjet configuration needed.
 
