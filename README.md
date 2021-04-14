@@ -46,6 +46,8 @@
 
 ## Features included in the module
 
+[Full documentation HERE.](https://fast-modular-project.com/modules/mailjet-mailing)
+
 Hi, if you want to implement a mailling system in your NestJS Backend and React.js frontend you are at the right place. 
 
 The goal is to send mails to inform users. It an be use to confirm a subscription, to set up a forgot password process in your app...
