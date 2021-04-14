@@ -6,7 +6,7 @@
 
 <div align="center">
     <strong>
-      Pluggable module on this <a href="https://fast-modular-project.com/starters/starter-reacjs-nestjs-mysql" target="_blank">starter</a>
+      Pluggable module on this <a href="https://fast-modular-project.com/starters/starter-reacjs-nestjs-mysql" target="_blank">FMP starter</a>
     </strong>  
 </div>
 
@@ -21,7 +21,7 @@
 
 <br />
 
-<div align="center"><strong>Send mails from your NestJS backend</strong></div>
+<div align="center"><strong>Send mails from your NestJS API</strong></div>
 <div align="center">Send emails to your customers with MailJet</div>
 
 <br />
@@ -48,18 +48,17 @@
 
 [Full documentation HERE.](https://fast-modular-project.com/modules/mailjet-mailing)
 
-Hi, if you want to implement a mailling system in your NestJS Backend and React.js frontend you are at the right place. 
+If you want to implement a mailing system in your NestJS API, you are at the right place. 
 
-The goal is to send mails to inform users. It an be use to confirm a subscription, to set up a forgot password process in your app...
+The goal is to send mails to your application's users. It can be used to confirm a subscription, to set up a forgot password process in your app, to active an account, the possibilites are limitless !
 
-In this module I will explain all the steps that you need in:
-- Backend : NestJS (Typescript)
-- Mailjet configuration 
+In this module, I will explain the both the backend API part (NestJS with TypeScript) and the Mailjet configuration needed.
 
-You can use this module to learn how to implement a mail sending or just to copy past in your project. ¯\_(ツ)_/¯
+You can use this module to learn how to implement a mailer system in your API or just to copy-paste in your project and send emails right away ! Your choice ¯\_(ツ)_/¯
 
-In this module you will find: 
-- Source code
+In this module, you will find: 
+- The source code
 - Documentation and Quickstart
-- An integration of Mailjet mail system with in React.js / NestJS / Mysql starter
-- My contact if you have any question 
+- An integration of Mailjet mail system with in React.js / NestJS / MySQL starter
+
+Feel free to enhance this module by submitting a pull request on GitHub !
